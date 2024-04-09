@@ -16,4 +16,4 @@ do {
   }
   alert("Добро пожаловать, ${newStudent}!");
   i1++;
-} while (i1 < 3);
+} while (i1 < 3); 
